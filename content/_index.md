@@ -114,7 +114,9 @@ sections:
 layout: advanced
 seo:
   title: Stephen Ajulu
-  description: ''
+  description: >-
+    Hi, my name is Stephen Ajulu, a Tech Enthusiast, Front End Web Dev, Graphic
+    Designer and I.T Consultant. I help companies, brands and people grow!
   robots: []
   extra: []
   type: stackbit_page_meta
