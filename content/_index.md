@@ -11,9 +11,9 @@ sections:
       Creator
     content: >
       I help companies, brands and organizations build modern and progressive
-      websites with a strong focus on performance, interactivity and security, I
-      also create graphical materials such as logos and give expert advice on
-      tech and security matters. [Let's talk](/contact/).
+      websites with a strong focus on performance, interactivity and security.
+
+       I also create graphical materials such as logos and give expert advice on tech and security matters. [Let's talk](/contact/).
   - type: grid_section
     template: grid_section
     section_id: clients
