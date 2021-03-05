@@ -9,7 +9,7 @@ params:
     template: header
     title: Stephen Ajulu
     logo: /images/signature-white-black.png
-    logo_alt: Agency logo
+    logo_alt: Stephen Ajulu
     has_nav: true
     nav_links:
       - type: action
