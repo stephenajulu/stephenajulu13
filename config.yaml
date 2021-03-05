@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    title: Stephen Ajulu
+    title: Stephen Ajul
     logo: /images/signature-black.png
     logo_alt: Stephen Ajulu
     has_nav: true
