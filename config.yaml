@@ -86,7 +86,7 @@ params:
         no_follow: false
         type: action
       - label: Stephen Ajulu is on Facebook
-        style: link
+        style: icon
         icon: facebook
         new_window: false
         no_follow: false
