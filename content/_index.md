@@ -19,7 +19,7 @@ sections:
     template: grid_section
     section_id: clients
     title: Clients
-    subtitle: A few of the companies w proud to call partners
+    subtitle: A few of the companies  proud to call partners
     col_number: three
     grid_items:
       - type: grid_item
