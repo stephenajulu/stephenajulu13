@@ -40,7 +40,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: '&copy; Stephen Ajulu. All rights reserved.'
+    content: '&copy; Stephen Ajulu. &nbsp; All rights reserved.'
     has_social: true
     social_links:
       - label: Stephen Ajulu is on Facebook
