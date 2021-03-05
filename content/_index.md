@@ -10,19 +10,11 @@ sections:
       Progressive Web Developer, Graphic Designer, I.T consultant & Content
       Creator
     content: >
-      I help companies, brands and organizations build modern and progressive
-      websites with a strong focus on performance, interactivity and security.
-
-
-      I also create graphic materials such as logos, posters and give expert
-      advice & opinion regarding tech and security matters. [Let's
-      talk](/contact/).
-
-
-      I have been in the I.T product & service industry long enough to be able
-      to give you expert advice such as how to get the best I.T equipment for
-      your organization at affordable prices or how best to test and hire new
-      tech employees.
+      I help companies, brands and organizations grow by building modern and
+      progressive websites with a strong focus on performance, interactivity and
+      security, creating graphic materials such as logos, posters and giving
+      expert advice regarding tech and security matters such as which equipment
+      to buy. [Let's talk](/contact/).
   - type: grid_section
     template: grid_section
     section_id: clients
