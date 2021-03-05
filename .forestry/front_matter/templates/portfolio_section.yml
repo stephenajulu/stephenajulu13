@@ -6,7 +6,7 @@ fields:
 - type: text
   name: section_id
   label: ID
-  description: 'A unique identifier of the section, must not contain whitespace'
+  description: A unique identifier of the section, must not contain whitespace
 - type: text
   name: title
   label: Title
@@ -39,7 +39,7 @@ fields:
 - type: text
   name: view_all_url
   label: All projects button URL
-  default: '#'
+  default: "#"
 - type: text
   name: type
   label: Object Type

@@ -41,7 +41,7 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- contact.md
-- _index.md
-- thank-you.md
+- content/_index.md
+- content/about.md
+- content/contact.md
+- content/thank-you.md
