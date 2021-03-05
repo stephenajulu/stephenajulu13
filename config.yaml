@@ -60,7 +60,7 @@ params:
       - type: action
         template: action
         label: Check Out Stephen Ajulu's Designs on Dribbble
-        url: 'https://dribbble.com/'
+        url: 'https://dribbble.com/https://dribbble.com/stephenajulu'
         style: icon
         icon: dribbble
         new_window: true
