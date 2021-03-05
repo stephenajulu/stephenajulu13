@@ -113,7 +113,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: Stephen Ajulu
   description: ''
   robots: []
   extra: []
