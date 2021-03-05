@@ -85,7 +85,7 @@ params:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: RSS
         url: '#'
         style: link
         icon: dribbble
