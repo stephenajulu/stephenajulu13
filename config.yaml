@@ -93,7 +93,7 @@ params:
         type: action
         url: 'https://www.facebook.com/stephenajulu'
       - label: Hire Me →
-        url: '#'
+        url: /contact
         style: link
         icon: dribbble
         new_window: false
