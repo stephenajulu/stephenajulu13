@@ -53,7 +53,7 @@ params:
       - type: action
         template: action
         label: Follow Stephen Ajulu on Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/stephenajulu.com'
         style: icon
         icon: instagram
         new_window: true
