@@ -9,10 +9,11 @@ sections:
       Hi there? My name is Stephen Ajulu, a New Tech/Trend Enthusiast, Front End
       Progressive Web Developer, Graphic Designer, I.T consultant & Content
       Creator
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      I help companies, brands and organizations build modern and progressive
+      websites with a strong focus on performance, interactivity and security, I
+      also create graphical materials such as logos and advice on tech and
+      security matters. [Let's talk](/contact/).
   - type: portfolio_section
     template: portfolio_section
     section_id: latest-projects
