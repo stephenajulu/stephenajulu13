@@ -1,0 +1,56 @@
+---
+label: Project
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the project
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The text shown just below the project title
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: file
+  name: thumb_image
+  label: Thumbnail image
+  description: The image shown in the portfolio grid
+- type: text
+  name: thumb_image_alt
+  label: Thumbnail image alt text
+  description: The alt text of the thumbnail image
+- type: blocks
+  name: sections
+  label: Sections
+  description: Project sections
+  template_types:
+  - image_section
+  - text_section
+- type: field_group
+  name: seo
+  label: Seo
+  fields:
+  - type: include
+    name: include_stackbit_page_meta
+    label: Page meta data
+    template: stackbit_page_meta
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: project
+  config:
+    required: true
+pages:
+- portfolio/project-1.md
+- portfolio/project-2.md
+- portfolio/project-3.md
+- portfolio/project-4.md
+- portfolio/project-5.md
+- portfolio/project-6.md

@@ -1,0 +1,47 @@
+---
+label: Grid Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: ID
+  description: 'A unique identifier of the section, must not contain whitespace'
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle of the section
+- type: select
+  name: col_number
+  label: Columns
+  description: The number of columns in the grid
+  default: three
+  config:
+    required: true
+    source:
+      type: custom
+    options:
+    - two
+    - three
+- type: field_group_list
+  name: grid_items
+  label: Grid items
+  fields:
+  - type: include
+    name: include_grid_item
+    label: Grid item
+    template: grid_item
+  config:
+    labelField: title
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: grid_section
+  config:
+    required: true

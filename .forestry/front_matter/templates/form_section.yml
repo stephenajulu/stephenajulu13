@@ -1,0 +1,64 @@
+---
+label: Form Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: ID
+  description: 'A unique identifier of the section, must not contain whitespace'
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle of the section
+- type: textarea
+  name: content
+  label: Content
+  description: The text content of the section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: form_id
+  label: Form ID
+  description: 'A unique identifier of the form, must not contain whitespace'
+  config:
+    required: true
+- type: text
+  name: form_action
+  label: Form action
+  description: >-
+    The path of your custom "success" page, if you want to replace the default
+    success message
+- type: field_group_list
+  name: form_fields
+  label: Form fields
+  fields:
+  - type: include
+    name: include_form_field
+    label: Form field
+    template: form_field
+  config:
+    labelField: name
+- type: boolean
+  name: hide_labels
+  label: Hide form field labels
+  default: false
+- type: text
+  name: submit_label
+  label: Submit button label
+  config:
+    required: true
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: form_section
+  config:
+    required: true

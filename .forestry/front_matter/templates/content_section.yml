@@ -1,0 +1,41 @@
+---
+label: Content Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: ID
+  description: 'A unique identifier of the section, must not contain whitespace'
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle of the section
+- type: file
+  name: image
+  label: Image
+  description: The image of the section
+- type: text
+  name: image_alt
+  label: Image alt text
+  description: The alt text of the section image
+- type: textarea
+  name: content
+  label: Content
+  description: The text content of the section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: content_section
+  config:
+    required: true

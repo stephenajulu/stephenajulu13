@@ -1,0 +1,47 @@
+---
+label: Advanced Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the page
+  config:
+    required: true
+- type: boolean
+  name: hide_title
+  label: Hide page title
+  default: true
+- type: blocks
+  name: sections
+  label: Sections
+  description: Page sections
+  template_types:
+  - hero_section
+  - content_section
+  - cta_section
+  - grid_section
+  - portfolio_section
+  - posts_section
+  - testimonials_section
+  - form_section
+- type: field_group
+  name: seo
+  label: Seo
+  fields:
+  - type: include
+    name: include_stackbit_page_meta
+    label: Page meta data
+    template: stackbit_page_meta
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: advanced
+  config:
+    required: true
+pages:
+- about.md
+- contact.md
+- _index.md
+- thank-you.md

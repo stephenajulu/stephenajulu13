@@ -1,0 +1,59 @@
+---
+label: CTA Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: ID
+  description: 'A unique identifier of the section, must not contain whitespace'
+- type: text
+  name: title
+  label: Title
+  description: The title of the section
+- type: textarea
+  name: content
+  label: Content
+  description: The text content of the section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group_list
+  name: actions
+  label: Action buttons
+  fields:
+  - type: include
+    name: include_action
+    label: Action
+    template: action
+  config:
+    labelField: label
+- type: file
+  name: image
+  label: Image
+  description: The image of the section
+- type: text
+  name: image_alt
+  label: Image alt text
+  description: The alt text of the section image
+- type: select
+  name: bg_color
+  label: Background color
+  description: The background color of the section
+  default: none
+  config:
+    required: true
+    source:
+      type: custom
+    options:
+    - none
+    - light
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: cta_section
+  config:
+    required: true

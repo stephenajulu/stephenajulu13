@@ -1,0 +1,20 @@
+---
+label: Text Section
+hide_body: true
+fields:
+- type: textarea
+  name: content
+  label: Content
+  description: The text content of the section
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: text_section
+  config:
+    required: true

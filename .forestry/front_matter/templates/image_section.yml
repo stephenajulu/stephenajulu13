@@ -1,0 +1,36 @@
+---
+label: Image Section
+hide_body: true
+fields:
+- type: file
+  name: image
+  label: Image
+  description: The image of the section
+- type: text
+  name: image_alt
+  label: Image Alt Text
+  description: The alt text of the section image
+- type: text
+  name: caption
+  label: Caption
+  description: The caption of the image
+- type: select
+  name: width
+  label: Width
+  description: The width of the image
+  default: regular
+  config:
+    required: true
+    source:
+      type: custom
+    options:
+    - regular
+    - wide
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: image_section
+  config:
+    required: true
