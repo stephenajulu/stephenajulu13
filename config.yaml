@@ -86,7 +86,7 @@ params:
         no_follow: false
         type: action
       - label: RSS
-        url: '#'
+        url: /index.xml
         style: link
         icon: dribbble
         new_window: false
