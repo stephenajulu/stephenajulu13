@@ -9,8 +9,8 @@ sections:
       Front End Progressive Web Development, Graphic Design, I.T Consultancy,
       Branding & Content Creator.
     content: >
-      Hi, I'm Stephen Ajulu and I help companies, brands and organizations grow
-      by building modern and progressive websites with a strong focus on
+      Hi, I'm **Stephen Ajulu** and I help companies, brands and organizations
+      grow by building modern and progressive websites with a strong focus on
       performance, interactivity and security, creating graphic materials such
       as logos, posters and giving expert advice regarding tech and security
       matters such as which equipment to buy. [Let's talk](/contact/).
