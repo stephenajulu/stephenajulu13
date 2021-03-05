@@ -96,7 +96,7 @@ params:
         url: /contact
         style: link
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   domain: 'https://stephenajulu13-21bb7.netlify.app'
