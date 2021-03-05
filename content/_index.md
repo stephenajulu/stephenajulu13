@@ -40,7 +40,7 @@ sections:
         template: grid_item
         image: images/logo-5.svg
         image_alt: Logo 5
-    subtitle: Amazing people I has worked with/on
+    subtitle: Amazing people I have worked with/on
   - type: portfolio_section
     template: portfolio_section
     section_id: latest-projects
