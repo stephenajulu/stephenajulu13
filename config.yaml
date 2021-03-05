@@ -2,7 +2,7 @@ title: Stephen Ajulu
 baseURL: /
 params:
   color_scheme: dark
-  accent_color: blue
+  accent_color: violet
   base_font: fraunces
   header:
     type: header
