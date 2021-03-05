@@ -29,7 +29,7 @@ params:
         style: link
       - type: action
         template: action
-        label: Journal
+        label: Blog
         url: /blog/
         style: link
       - type: action
