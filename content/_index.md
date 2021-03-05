@@ -41,6 +41,7 @@ sections:
         template: grid_item
         image: images/logo-5.svg
         image_alt: Logo 5
+    subtitle: Here are the amazing people Stephen Ajulu has worked with
   - type: portfolio_section
     template: portfolio_section
     section_id: latest-projects
