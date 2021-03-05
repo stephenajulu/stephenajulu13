@@ -45,7 +45,7 @@ params:
     social_links:
       - type: action
         template: action
-        label: Follow Me On Twitter
+        label: Follow Stephen Ajulu On Twitter
         url: 'https://twitter.com/'
         style: icon
         icon: twitter
