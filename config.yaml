@@ -43,6 +43,13 @@ params:
     content: '&copy; Stephen Ajulu. All rights reserved.'
     has_social: true
     social_links:
+      - label: Stephen Ajulu is on Facebook
+        style: icon
+        icon: facebook
+        new_window: true
+        no_follow: false
+        type: action
+        url: 'https://www.facebook.com/stephenajulu'
       - type: action
         template: action
         label: Follow Stephen Ajulu On Twitter
@@ -78,13 +85,6 @@ params:
         new_window: true
         no_follow: false
         type: action
-      - label: Stephen Ajulu is on Facebook
-        style: icon
-        icon: facebook
-        new_window: true
-        no_follow: false
-        type: action
-        url: 'https://www.facebook.com/stephenajulu'
       - label: Hire Me →
         url: /contact
         style: link
