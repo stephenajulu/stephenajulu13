@@ -74,7 +74,7 @@ params:
       - label: Check Out Stephen Ajulu's Projects on GitHub
         style: icon
         icon: github
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
         url: 'https://github.com/stephenajulu/'
