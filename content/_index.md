@@ -96,9 +96,9 @@ sections:
     template: cta_section
     section_id: cta
     title: Let’s Work on Something Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Say hello at [**alunje73@gmail.com**](mailto:alunje73@gmail.com) or tell
+      me more about your project by getting started below.
     actions:
       - type: action
         template: action
