@@ -55,7 +55,7 @@ sections:
     template: grid_section
     section_id: services
     title: Services
-    subtitle: What we do
+    subtitle: What i do
     col_number: three
     grid_items:
       - type: grid_item
