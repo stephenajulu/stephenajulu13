@@ -67,7 +67,7 @@ params:
       - type: action
         template: action
         label: Check Out Stephen Ajulu's Professional Profile on LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/stephenajulu'
         style: icon
         icon: linkedin
         new_window: true
