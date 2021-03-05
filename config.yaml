@@ -78,7 +78,7 @@ params:
         no_follow: false
         type: action
         url: 'https://github.com/stephenajulu/'
-      - label: lorem-ipsum
+      - label: Take a Look at Stephen Ajulu's Videos on YouTube
         url: '#'
         style: link
         icon: youtube
