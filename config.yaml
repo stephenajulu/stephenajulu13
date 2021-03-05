@@ -94,7 +94,7 @@ params:
         url: 'https://www.facebook.com/stephenajulu'
       - label: Hire Me →
         url: /contact
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
