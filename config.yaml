@@ -59,13 +59,6 @@ params:
         new_window: true
       - type: action
         template: action
-        label: Check Out Stephen Ajulu's Designs on Dribbble
-        url: 'https://dribbble.com/stephenajulu'
-        style: icon
-        icon: dribbble
-        new_window: true
-      - type: action
-        template: action
         label: Check Out Stephen Ajulu's Professional Profile on LinkedIn
         url: 'https://www.linkedin.com/in/stephenajulu'
         style: icon
