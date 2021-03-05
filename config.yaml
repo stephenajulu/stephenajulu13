@@ -80,7 +80,7 @@ params:
         url: 'https://github.com/stephenajulu/'
       - label: Take a Look at Stephen Ajulu's Videos on YouTube
         url: '#'
-        style: link
+        style: icon
         icon: youtube
         new_window: false
         no_follow: false
