@@ -102,7 +102,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Let's get started
+        label: Let's get started!
         url: /contact
         style: button
     image: images/cta.svg
