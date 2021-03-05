@@ -6,8 +6,8 @@ sections:
     template: hero_section
     section_id: hero
     title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+      Hi there? My name is Stephen Ajulu, a front end progressive web developer,
+      graphic designer, I.T consultant and Content Creator
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
