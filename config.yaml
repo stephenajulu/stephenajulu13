@@ -47,7 +47,7 @@ params:
         template: action
         label: Follow Stephen Ajulu On Twitter
         url: 'https://twitter.com/stephenajulu'
-        style: icon
+        style: button
         icon: twitter
         new_window: true
       - type: action
