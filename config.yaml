@@ -72,7 +72,7 @@ params:
         icon: linkedin
         new_window: true
       - label: Check Out Stephen Ajulu's Projects on GitHub
-        style: link
+        style: icon
         icon: github
         new_window: false
         no_follow: false
