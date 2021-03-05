@@ -7,7 +7,7 @@ sections:
     section_id: hero
     title: >-
       Front End Progressive Web Development, Graphic Design, I.T Consultancy and
-      Content Creator
+      Content Creator.
     content: >
       I help companies, brands and organizations grow by building modern and
       progressive websites with a strong focus on performance, interactivity and
