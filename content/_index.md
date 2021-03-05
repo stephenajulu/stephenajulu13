@@ -107,7 +107,7 @@ sections:
         label: Let's get started!
         url: /contact
         style: button
-    image: /images/ultra-mint.png
+    image: /images/cta-about.svg
     image_alt: Illustration
     bg_color: light
 layout: advanced
