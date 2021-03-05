@@ -19,7 +19,7 @@ sections:
     template: grid_section
     section_id: clients
     title: Clients
-    col_number: three
+    col_number: two
     grid_items:
       - type: grid_item
         template: grid_item
