@@ -93,6 +93,7 @@ params:
         no_follow: false
         type: action
   domain: 'https://stephenajulu13-21bb7.netlify.app'
+  favicon: /images/me.png
 taxonomies:
   stub: stub
 disableKinds:
