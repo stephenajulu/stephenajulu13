@@ -85,7 +85,7 @@ params:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Stephen Ajulu is on Facebook
         url: '#'
         style: link
         icon: facebook
