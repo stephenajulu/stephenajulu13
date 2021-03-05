@@ -82,7 +82,7 @@ params:
         url: '#'
         style: icon
         icon: youtube
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   domain: 'https://stephenajulu13-21bb7.netlify.app'
