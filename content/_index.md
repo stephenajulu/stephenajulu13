@@ -5,10 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     section_id: hero
-    title: >-
-      Hi there? My name is Stephen Ajulu, a New Tech/Trend Enthusiast, Front End
-      Progressive Web Developer, Graphic Designer, I.T consultant & Content
-      Creator
+    title: Front End Progressive Web Develop
     content: >
       I help companies, brands and organizations grow by building modern and
       progressive websites with a strong focus on performance, interactivity and
