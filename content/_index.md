@@ -6,7 +6,7 @@ sections:
     template: hero_section
     section_id: hero
     title: >-
-      Hi there? My name is Stephen Ajulu, a front end Progressive Web Developer,
+      Hi there? My name is Stephen Ajulu, a front End Progressive Web Developer,
       Graphic Designer, I.T consultant and Content Creator
     content: >-
       We are a brand and design practice. We work closely with you, your team to
