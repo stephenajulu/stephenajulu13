@@ -25,33 +25,6 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     template: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
-    col_number: three
-    grid_items:
-      - type: grid_item
-        template: grid_item
-        image: images/logo-1.svg
-        image_alt: Logo 1
-      - type: grid_item
-        template: grid_item
-        image: images/logo-2.svg
-        image_alt: Logo 2
-      - type: grid_item
-        template: grid_item
-        image: images/logo-3.svg
-        image_alt: Logo 3
-      - type: grid_item
-        template: grid_item
-        image: images/logo-4.svg
-        image_alt: Logo 4
-      - type: grid_item
-        template: grid_item
-        image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
-    template: grid_section
     section_id: services
     title: Services
     subtitle: What we do
@@ -94,6 +67,33 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - type: grid_section
+    template: grid_section
+    section_id: clients
+    title: Clients
+    subtitle: A few of the companies we're proud to call partners
+    col_number: three
+    grid_items:
+      - type: grid_item
+        template: grid_item
+        image: images/logo-1.svg
+        image_alt: Logo 1
+      - type: grid_item
+        template: grid_item
+        image: images/logo-2.svg
+        image_alt: Logo 2
+      - type: grid_item
+        template: grid_item
+        image: images/logo-3.svg
+        image_alt: Logo 3
+      - type: grid_item
+        template: grid_item
+        image: images/logo-4.svg
+        image_alt: Logo 4
+      - type: grid_item
+        template: grid_item
+        image: images/logo-5.svg
+        image_alt: Logo 5
   - type: cta_section
     template: cta_section
     section_id: cta
