@@ -118,6 +118,10 @@ seo:
     Hi, my name is Stephen Ajulu, a Tech Enthusiast, Front End Web Dev, Graphic
     Designer and I.T Consultant. I help companies, brands and people grow!
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/edited header.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
