@@ -6,7 +6,7 @@ sections:
     template: hero_section
     section_id: hero
     title: >-
-      Hi there? My name is Stephen Ajulu, a New Tech Enthusiast, Front End
+      Hi there? My name is Stephen Ajulu, a New Tech/Trend Enthusiast, Front End
       Progressive Web Developer, Graphic Designer, I.T consultant & Content
       Creator
     content: >-
