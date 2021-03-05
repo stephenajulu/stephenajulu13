@@ -41,7 +41,7 @@ params:
     type: footer
     template: footer
     content: >-
-      2016 - Today&nbsp; | &nbsp; &copy; Stephen Ajulu.&nbsp; All rights
+      2016 - Today &nbsp; | &nbsp; &copy; Stephen Ajulu.&nbsp; All rights
       reserved.
     has_social: true
     social_links:
