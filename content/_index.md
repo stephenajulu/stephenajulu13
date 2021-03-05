@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     section_id: hero
-    title: Front End Progressive Web Develop
+    title: Front End Progressive Web Developer
     content: >
       I help companies, brands and organizations grow by building modern and
       progressive websites with a strong focus on performance, interactivity and
