@@ -71,7 +71,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
-      - label: Check Out My Projects on GitHub
+      - label: Check Out Stephen Ajulu's Projects on GitHub
         url: '#'
         style: link
         icon: github
