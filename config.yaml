@@ -92,7 +92,7 @@ params:
         no_follow: false
         type: action
         url: 'https://www.facebook.com/stephenajulu'
-      - label: 'Hire Me '
+      - label: Hire Me →
         url: '#'
         style: link
         icon: dribbble
