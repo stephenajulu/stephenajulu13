@@ -71,7 +71,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
-      - label: lorem-ipsum
+      - label: 'Check Out My Projects on '
         url: '#'
         style: link
         icon: github
