@@ -71,7 +71,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
-      - label: 'Check Out My Projects on '
+      - label: Check Out My Projects on GitHub
         url: '#'
         style: link
         icon: github
