@@ -110,19 +110,6 @@ sections:
     image: /images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: posts
-    template: posts_section
-    title: Blog
-    subtitle: Recent Posts
-    posts_number: 2
-    col_number: two
-    actions:
-      - type: action
-        template: action
-        label: View More!
-        url: 'https://ajulusthoughts.stephenajulu.com'
-        style: button
-    type: posts_section
   - section_id: testimonials
     template: testimonials_section
     title: Testimonials
