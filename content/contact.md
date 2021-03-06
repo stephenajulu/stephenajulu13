@@ -43,7 +43,7 @@ sections:
           - Web Performance Optimization
           - ' Search Engine Optimization'
           - 'Social Media Management '
-          - '[object Object]tise'
+          - null
       - type: form_field
         template: form_field
         input_type: textarea
