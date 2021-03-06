@@ -44,7 +44,7 @@ params:
         template: action
         label: Hire Me!
         url: /contact/
-        style: link
+        style: button
   footer:
     type: footer
     template: footer
