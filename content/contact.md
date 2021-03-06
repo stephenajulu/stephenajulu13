@@ -39,7 +39,7 @@ sections:
           - Article Writing
           - Copy Writing
           - I.T Consultation
-          - '[object Objectr'
+          - Conversion of a Website into a Progressive Web App
       - type: form_field
         template: form_field
         input_type: textarea
