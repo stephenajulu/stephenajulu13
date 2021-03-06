@@ -40,7 +40,7 @@ sections:
           - Copy Writing
           - I.T Consultation
           - Conversion of a Website into a Progressive Web App
-          - Web Perfo
+          - 'Web Perfomance and Search '
       - type: form_field
         template: form_field
         input_type: textarea
