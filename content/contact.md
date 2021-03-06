@@ -44,7 +44,7 @@ sections:
           - ' Search Engine Optimization'
           - 'Social Media Management '
           - Advertise on My Blog Ajulu's Thoughts
-          - Say Hello
+          - Just Say Hello
       - type: form_field
         template: form_field
         input_type: textarea
