@@ -37,7 +37,7 @@ sections:
           - Web Development
           - Graphic Design
           - Article Writing
-          - '[object Object]opy '
+          - Copy Writing
       - type: form_field
         template: form_field
         input_type: textarea
