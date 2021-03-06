@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     content: |
-      Thank you for sending me a message. 
+      Thank you for sending me a message.
 
       ![](/images/rocket2.gif)
 
