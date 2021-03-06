@@ -6,8 +6,13 @@ sections:
     template: content_section
     image: images/about.jpg
     image_alt: Our team in the meeting room
-    content: >+
+    content: >
+      \<!--raw html-->
+
+
       \<img src="/images/author.jpg" style="float: right;">
+
+
 
 
       I'm a freelance remote front end web developer, graphic designer, I.T
@@ -36,7 +41,6 @@ sections:
       Progressive Web Apps, The Comeback of Static Sites(e.g. Hugo), Machine
       Learning/AI, Quantum Computing, Big Data, VR/AR/MR, Blockchain, 3D
       printing and Robotics.
-
   - type: grid_section
     template: grid_section
     section_id: team
