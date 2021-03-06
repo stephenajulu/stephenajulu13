@@ -31,6 +31,7 @@ params:
         template: action
         label: Blog
         style: link
+        url: /blog/
       - type: action
         template: action
         label: Hire Me!
