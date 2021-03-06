@@ -42,7 +42,7 @@ sections:
           - Conversion of a Website into a Progressive Web App
           - Web Performance Optimization
           - ' Search Engine Optimization'
-          - Social Media Managment
+          - 'Social Media Management '
       - type: form_field
         template: form_field
         input_type: textarea
