@@ -126,16 +126,15 @@ sections:
   - section_id: testimonials
     template: testimonials_section
     title: Testimonials
-    subtitle: 
-    testimonials: 
+    testimonials:
       - type: testimonial
         template: testimonial
         author: Author
         avatar: images/service-1.svg
         avatar_alt: test
-        position: 
-        content: >
+        content: |
           We came to stephen for this and he did it even better
+        position: left
     type: testimonials_section
 layout: advanced
 seo:
