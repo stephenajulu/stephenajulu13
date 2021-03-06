@@ -7,18 +7,19 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
-      ![](images/author.jpg)I'm a freelance remote front end web developer,
-      graphic designer, I.T Consultant, Branding Expert and Content Creator
-      based in Nairobi, Kenya. I love building and creating things e.g. brands,
-      companies, products, tools, content and more, Since growing up I have
-      always had this innate curiosity of finding out what things are made of
-      and how i can tear them down only to build them up again. Some of my first
-      jobs in Web development was reverse engineering website themes based on a
-      client's want, something i still do today only rarely.
+      I'm a freelance remote front end web developer, graphic designer, I.T
+      Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
+      love building and creating things e.g. brands, companies, products, tools,
+      content and more, Since growing up I have always had this innate curiosity
+      of finding out what things are made of and how i can tear them down only
+      to build them up again. Some of my first jobs in Web development was
+      reverse engineering website themes based on a client's want, something i
+      still do today only rarely.
 
 
-      I am currently pursuing my Bachelor of Science in Information Technology
-      and have completed a Diploma in Information Technology, a Certificate in
+      ![](https://raw.githubusercontent.com/stephenajulu/stephenajulu13/master/static/images/author.jpg)I
+      am currently pursuing my Bachelor of Science in Information Technology and
+      have completed a Diploma in Information Technology, a Certificate in
       Business Information Technology, an Ethical Hacking Certification(CEH
       local), Adobe Photoshop and Corel Draw, a System Troubleshooting
       Certification, French Level 1 Language and finally did the
