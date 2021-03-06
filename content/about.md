@@ -6,6 +6,8 @@ sections:
     template: content_section
     image: /images/1615010725018.jpg?size=200
     image_alt: Me in my office/library
+    image_width: 500px
+    image_style: float:right;
     content: >
       I'm a freelance remote front end web developer, graphic designer, I.T
       Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
