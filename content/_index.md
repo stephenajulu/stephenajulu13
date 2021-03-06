@@ -123,6 +123,11 @@ sections:
         url: 'https://ajulusthoughts.stephenajulu.com'
         style: button
     type: posts_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    testimonials: []
+    type: testimonials_section
 layout: advanced
 seo:
   title: Stephen Ajulu
