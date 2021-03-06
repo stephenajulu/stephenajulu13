@@ -102,7 +102,7 @@ sections:
         template: testimonial
         author: Bryan Ochieng
         avatar: /images/BROTEMU 1.8.jpg
-        avatar_alt: brotemu logo
+        avatar_alt: 'brotemu logo '
         content: >-
           My name is Bryan and I am a fashion designer and consultant, i can to
           Stephen for brand items and he DELIVERED, in a week, i had a logo in
