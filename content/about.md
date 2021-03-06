@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: 'Hi, I''m Stephen Ajulu'
 hide_title: false
 sections:
   - type: content_section
