@@ -110,24 +110,24 @@ sections:
     image: /images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions: []
+  - section_id: posts
+    title: Blog
+    subtitle: Recent Posts
+    posts_number: 2
+    col_number: two
+    actions: 
+      - type: action
+        template: action
+        label: View More!
+        url: https://ajulusthoughts.stephenajulu.com
+        style: button
     type: posts_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    testimonials: []
-    type: testimonials_section
 layout: advanced
 seo:
   title: Stephen Ajulu
   description: >-
-    Hi, my name is Stephen Ajulu, a Tech Enthusiast, Front End Web Dev, Graphic
-    Designer and I.T Consultant. I help companies, brands and people grow!
+    Hi, my name is Stephen Ajulu, a Tech Enthusiast, Front End Web Developer, Graphic
+    Designer, Content Creator and I.T Consultant. I help companies, brands and people grow!
   robots: []
   extra:
     - name: 'og:image'
