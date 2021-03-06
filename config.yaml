@@ -86,7 +86,7 @@ params:
         new_window: true
         no_follow: false
         type: action
-      - label: Hire Me →
+      - label: Hire Me!
         url: /contact
         style: link
         icon: dribbble
