@@ -125,8 +125,16 @@ sections:
     type: posts_section
   - section_id: testimonials_section
     title: Testimonials
-    subtitle: lorem-ipsum
+    subtitle: 
     testimonials: 
+      - type: testimonial
+        template: testimonial
+        author: Author
+        avatar: images/service-1.svg
+        avatar_alt: test
+        position: 
+        content: >
+        
     type: testimonials_section
 layout: advanced
 seo:
