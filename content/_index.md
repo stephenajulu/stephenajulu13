@@ -136,6 +136,7 @@ sections:
         position: 
         content: >
         We came to stephen for this and he did it even better
+    type: testimonials_section
 layout: advanced
 seo:
   title: Stephen Ajulu
