@@ -100,6 +100,14 @@ params:
         new_window: true
         no_follow: false
         type: action
+    links:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   domain: 'https://stephenajulu13-21bb7.netlify.app'
   favicon: /images/author.jpg
 taxonomies:
