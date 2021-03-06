@@ -31,7 +31,7 @@ params:
         template: action
         label: Blog
         style: link
-        url: /blog/
+        url: 'https://ajulusthoughts.stephenajulu.com'
       - type: action
         template: action
         label: Hire Me!
