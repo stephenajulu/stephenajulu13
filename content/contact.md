@@ -46,7 +46,7 @@ sections:
           - Advertise on My Blog Ajulu's Thoughts
           - Just Saying Hello
           - Other
-          - '[object Object]S'
+          - Sponser Me
         is_required: false
       - type: form_field
         template: form_field
