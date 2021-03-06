@@ -7,9 +7,9 @@ sections:
     image: /images/1615010725018.jpg?size=200
     image_alt: Me in my office/library
     image_width: 500px
-    image_style: float:left;align:left;
+    image_style: 'float:left;align:left;'
     content: >
-      I'm a freelance remote front end web developer, graphic designer, I.T
+      I'm a remote freelance, front end web developer, graphic designer, I.T
       Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
       love building and creating things e.g. brands, companies, products, tools,
       content and more, Since growing up I have always had this innate curiosity
