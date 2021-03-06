@@ -5,10 +5,13 @@ sections:
   - type: form_section
     template: form_section
     section_id: contact-form
-    content: |+
+    content: |
       Let’s build something great together.
       Complete our contact form or send me an email at <alunje73@gmail.com>.
 
+      And I'll be on my way to reply
+
+      ![](images/rocket.gif)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
