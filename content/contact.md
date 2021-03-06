@@ -46,7 +46,7 @@ sections:
           - Advertise on My Blog Ajulu's Thoughts
           - Just Saying Hello
           - Other
-          - Sponser Me
+          - 'Sponser Me, My Blog and my Upcoming Products'
         is_required: false
       - type: form_field
         template: form_field
