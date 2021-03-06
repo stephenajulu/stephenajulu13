@@ -134,8 +134,7 @@ sections:
         avatar: images/service-1.svg
         avatar_alt: test
         position: 
-        content: >
-        
+        content: 
     type: testimonials_section
 layout: advanced
 seo:
