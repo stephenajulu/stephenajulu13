@@ -43,7 +43,7 @@ sections:
           - Web Performance Optimization
           - ' Search Engine Optimization'
           - 'Social Media Management '
-          - 'Advertise on My Blog '
+          - Advertise on My Blog Ajulu's Thoughts
       - type: form_field
         template: form_field
         input_type: textarea
