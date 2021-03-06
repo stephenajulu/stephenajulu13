@@ -6,8 +6,8 @@ sections:
     template: hero_section
     section_id: hero
     title: >-
-      Front End Progressive Web Development, Graphic Design, I.T Consultancy,
-      Branding & Content Creation
+      Remote Front End Progressive Web Development, Graphic Design, I.T
+      Consultancy, Branding & Content Creation
     content: >
       Hi, I'm **Stephen Ajulu** and I help companies, brands and organizations
       grow by building modern and progressive websites with a strong focus on
