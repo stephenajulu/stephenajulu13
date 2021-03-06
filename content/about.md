@@ -7,6 +7,11 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
+      \<img
+      src="https://raw.githubusercontent.com/stephenajulu/stephenajulu13/master/static/images/author.jpg"
+      style="float: right;">
+
+
       I'm a freelance remote front end web developer, graphic designer, I.T
       Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
       love building and creating things e.g. brands, companies, products, tools,
@@ -17,9 +22,8 @@ sections:
       still do today only rarely.
 
 
-      ![](https://raw.githubusercontent.com/stephenajulu/stephenajulu13/master/static/images/author.jpg)I
-      am currently pursuing my Bachelor of Science in Information Technology and
-      have completed a Diploma in Information Technology, a Certificate in
+      I am currently pursuing my Bachelor of Science in Information Technology
+      and have completed a Diploma in Information Technology, a Certificate in
       Business Information Technology, an Ethical Hacking Certification(CEH
       local), Adobe Photoshop and Corel Draw, a System Troubleshooting
       Certification, French Level 1 Language and finally did the
