@@ -46,7 +46,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: About Us
+  title: 'Hi, I''m Stephen Ajulu'
   description: >-
     Learn more about Stephen Ajulu, his expertise, his education, his skills,
     his interests and his hobbies. Here he also explains why he is perfect for
