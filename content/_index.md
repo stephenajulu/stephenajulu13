@@ -101,7 +101,7 @@ sections:
       - type: testimonial
         template: testimonial
         author: Bryan Ochieng
-        avatar: images/service-1.svg
+        avatar: /images/BROTEMU 1.8.jpg
         avatar_alt: brotemu logo
         content: >-
           My name is Bryan and I am a fashion designer and consultant, i can to
