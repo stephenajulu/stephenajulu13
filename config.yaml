@@ -38,7 +38,7 @@ params:
         label: Hire Me!
         url: /contact/
         style: link
-      - label: lorem-ipsum
+      - label: Notes
         url: '#'
         style: link
         icon: dribbble
