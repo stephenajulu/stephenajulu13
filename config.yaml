@@ -48,7 +48,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: '&copy; Stephen Ajulu.&nbsp; All rights reserved.'
+    content: '&copy; Stephen Ajulu.'
     has_social: true
     social_links:
       - type: action
