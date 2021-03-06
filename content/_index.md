@@ -46,7 +46,7 @@ sections:
     section_id: latest-projects
     title: Recent Work
     subtitle: Explore case studies
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
@@ -116,19 +116,20 @@ sections:
     subtitle: Recent Posts
     posts_number: 2
     col_number: two
-    actions: 
+    actions:
       - type: action
         template: action
         label: View More!
-        url: https://ajulusthoughts.stephenajulu.com
+        url: 'https://ajulusthoughts.stephenajulu.com'
         style: button
     type: posts_section
 layout: advanced
 seo:
   title: Stephen Ajulu
   description: >-
-    Hi, my name is Stephen Ajulu, a Tech Enthusiast, Front End Web Developer, Graphic
-    Designer, Content Creator and I.T Consultant. I help companies, brands and people grow!
+    Hi, my name is Stephen Ajulu, a Tech Enthusiast, Front End Web Developer,
+    Graphic Designer, Content Creator and I.T Consultant. I help companies,
+    brands and people grow!
   robots: []
   extra:
     - name: 'og:image'
