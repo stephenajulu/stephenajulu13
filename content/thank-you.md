@@ -7,7 +7,13 @@ sections:
     content: |
       Thank you for sending me a message.
 
-      ![](/images/rocket2.gif)
+      It's on it's way and I'll reply as fast as possible.
+
+
+
+      ![](images/rocket2.gif)
+
+
 
       Have a great day!
     actions:
