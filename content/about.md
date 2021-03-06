@@ -36,7 +36,7 @@ sections:
   - type: cta_section
     template: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Let's Work Together and Build Something Amazing
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
