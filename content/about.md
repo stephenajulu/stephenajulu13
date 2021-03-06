@@ -56,7 +56,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: 'Hi, I''m Stephen Ajulu'
       keyName: property
     - name: 'og:description'
       value: >-
