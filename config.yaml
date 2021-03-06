@@ -33,11 +33,6 @@ params:
         style: link
         url: 'https://ajulusthoughts.stephenajulu.com'
         new_window: true
-      - type: action
-        template: action
-        label: Hire Me!
-        url: /contact/
-        style: link
       - label: Notes
         url: /notes/
         style: link
@@ -45,6 +40,11 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - type: action
+        template: action
+        label: Hire Me!
+        url: /contact/
+        style: link
   footer:
     type: footer
     template: footer
