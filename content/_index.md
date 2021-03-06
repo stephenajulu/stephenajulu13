@@ -123,10 +123,10 @@ sections:
         url: 'https://ajulusthoughts.stephenajulu.com'
         style: button
     type: posts_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - section_id: testimonials_section
+    title: Testimonials
     subtitle: lorem-ipsum
-    testimonials: []
+    testimonials: 
     type: testimonials_section
 layout: advanced
 seo:
