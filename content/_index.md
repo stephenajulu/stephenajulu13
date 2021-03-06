@@ -114,7 +114,7 @@ sections:
     template: posts_section
     title: Blog
     subtitle: Recent Posts
-    posts_number: 2
+    posts_number: 3
     col_number: two
     actions:
       - type: action
