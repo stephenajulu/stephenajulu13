@@ -102,7 +102,7 @@ params:
         type: action
     links:
       - label: Hire Me!
-        url: '#'
+        url: /contact/
         style: link
         icon: dribbble
         new_window: false
