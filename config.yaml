@@ -32,6 +32,7 @@ params:
         label: Blog
         style: link
         url: 'https://ajulusthoughts.stephenajulu.com'
+        new_window: true
       - type: action
         template: action
         label: Hire Me!
