@@ -9,14 +9,14 @@ sections:
     content: >
       \<img
       src="https://raw.githubusercontent.com/stephenajulu/stephenajulu13/master/static/images/author.jpg"
-      style="float: right;">
+      style="float:right; align:right;" widht="200px">
 
 
       I'm a freelance remote front end web developer, graphic designer, I.T
       Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
       love building and creating things e.g. brands, companies, products, tools,
       content and more, Since growing up I have always had this innate curiosity
-      of finding out what things are made of and how i can tear them down only
+      of finding out what things are made of and how I can tear them down only
       to build them up again. Some of my first jobs in Web development was
       reverse engineering website themes based on a client's want, something i
       still do today only rarely.
