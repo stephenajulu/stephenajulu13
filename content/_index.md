@@ -102,7 +102,7 @@ sections:
         template: testimonial
         author: Bryan Ochieng
         avatar: images/service-1.svg
-        avatar_alt: test
+        avatar_alt: brotemu logo
         content: |
           We came to stephen for this and he did it even better
         position: CEO
