@@ -106,7 +106,7 @@ sections:
         content: >-
           My name is Bryan and I am a fashion designer and consultant, i can to
           Stephen for brand items and he DELIVERED, in a week, i had a logo in
-          mutliple formats, a website and cover images for social media
+          multiple formats, a website and cover images for social media
         position: CEO
     type: testimonials_section
   - type: cta_section
