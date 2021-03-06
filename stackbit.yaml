@@ -283,6 +283,14 @@ models:
         name: image_alt
         label: Image alt text
         description: The alt text of the image
+      - type: string
+        name: image_width
+        label: Image width
+        description: The width of the image
+      - type: string
+        name: image_style
+        label: Image style
+        description: The style of the image
       - type: model
         name: seo
         models:
