@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     template: content_section
-    image: images/about.jpg
+    image: /images/author.jpg
     image_alt: Our team in the meeting room
     content: >
       I'm a freelance remote front end web developer, graphic designer, I.T
