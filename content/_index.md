@@ -126,6 +126,7 @@ sections:
   - section_id: testimonials
     template: testimonials_section
     title: Testimonials
+    type: testimonials_section
     subtitle: 
     testimonials: 
       - type: testimonial
@@ -134,9 +135,8 @@ sections:
         avatar: images/service-1.svg
         avatar_alt: test
         position: 
-        content: >
+        content: >-
         We came to stephen for this and he did it even better
-    type: testimonials_section
 layout: advanced
 seo:
   title: Stephen Ajulu
