@@ -101,7 +101,7 @@ params:
         no_follow: false
         type: action
     links:
-      - label: lorem-ipsum
+      - label: Hire Me!
         url: '#'
         style: link
         icon: dribbble
