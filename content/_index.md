@@ -100,7 +100,7 @@ sections:
     testimonials:
       - type: testimonial
         template: testimonial
-        author: Bryan
+        author: 'Bryan '
         avatar: images/service-1.svg
         avatar_alt: test
         content: |
