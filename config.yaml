@@ -30,7 +30,6 @@ params:
       - type: action
         template: action
         label: Blog
-        url: /
         style: link
       - type: action
         template: action
