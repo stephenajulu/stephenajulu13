@@ -35,7 +35,7 @@ sections:
         options:
           - Branding
           - Web Development
-          - Digital
+          - Graphic Design
       - type: form_field
         template: form_field
         input_type: textarea
