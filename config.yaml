@@ -39,7 +39,7 @@ params:
         url: /contact/
         style: link
       - label: Notes
-        url: '#'
+        url: /notes/
         style: link
         icon: dribbble
         new_window: false
