@@ -135,7 +135,7 @@ sections:
         avatar_alt: test
         position: 
         content: >
-        We came to stephen for this and he did it even better
+          We came to stephen for this and he did it even better
     type: testimonials_section
 layout: advanced
 seo:
