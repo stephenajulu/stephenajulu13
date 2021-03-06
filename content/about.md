@@ -37,11 +37,7 @@ sections:
     template: cta_section
     section_id: cta
     title: Let's Work Together and Build Something Amazing
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: "Say hello at\_[**alunje73@gmail.com**](mailto:alunje73@gmail.com)\_or tell me more about your project by getting started below.\n"
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
