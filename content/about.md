@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     template: content_section
-    image: /images/author.jpg
+    image: /images/1615010725018.jpg
     image_alt: Me in my office/library
     content: >
       I'm a freelance remote front end web developer, graphic designer, I.T
