@@ -123,7 +123,8 @@ sections:
         url: 'https://ajulusthoughts.stephenajulu.com'
         style: button
     type: posts_section
-  - section_id: testimonials_section
+  - section_id: testimonials
+  - template: testimonials_section
     title: Testimonials
     subtitle: 
     testimonials: 
