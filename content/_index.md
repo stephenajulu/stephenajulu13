@@ -134,7 +134,7 @@ sections:
         avatar_alt: test
         content: |
           We came to stephen for this and he did it even better
-        position: left
+        position: CEO
     type: testimonials_section
 layout: advanced
 seo:
