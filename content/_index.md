@@ -94,6 +94,19 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - section_id: testimonials
+    template: testimonials_section
+    title: Testimonials
+    testimonials:
+      - type: testimonial
+        template: testimonial
+        author: Author
+        avatar: images/service-1.svg
+        avatar_alt: test
+        content: |
+          We came to stephen for this and he did it even better
+        position: CEO
+    type: testimonials_section
   - type: cta_section
     template: cta_section
     section_id: cta
@@ -110,19 +123,6 @@ sections:
     image: /images/cta-about.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: testimonials
-    template: testimonials_section
-    title: Testimonials
-    testimonials:
-      - type: testimonial
-        template: testimonial
-        author: Author
-        avatar: images/service-1.svg
-        avatar_alt: test
-        content: |
-          We came to stephen for this and he did it even better
-        position: CEO
-    type: testimonials_section
 layout: advanced
 seo:
   title: Stephen Ajulu
