@@ -5,7 +5,7 @@ sections:
   - type: content_section
     template: content_section
     image: /images/author.jpg
-    image_alt: Our team in the meeting room
+    image_alt: Me in my office/library
     content: >
       I'm a freelance remote front end web developer, graphic designer, I.T
       Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
