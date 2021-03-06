@@ -36,7 +36,7 @@ sections:
           - Branding
           - Web Development
           - Graphic Design
-          - '[object Object]n'
+          - Article Writing
       - type: form_field
         template: form_field
         input_type: textarea
