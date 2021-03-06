@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout_style: mosaic
+layout_style: tiles
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
