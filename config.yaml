@@ -100,14 +100,7 @@ params:
         new_window: true
         no_follow: false
         type: action
-    links:
-      - label: Hire Me!
-        url: /contact/
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    links: []
   domain: 'https://stephenajulu13-21bb7.netlify.app'
   favicon: /images/author.jpg
 taxonomies:
