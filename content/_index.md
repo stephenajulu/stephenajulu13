@@ -111,6 +111,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: posts
+    template: posts_section
     title: Blog
     subtitle: Recent Posts
     posts_number: 2
