@@ -59,7 +59,10 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Learn more about Stephen Ajulu, his expertise, his education, his
+        skills, his interests and his hobbies. Here he also explains why he is
+        perfect for the job.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
