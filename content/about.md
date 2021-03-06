@@ -6,15 +6,37 @@ sections:
     template: content_section
     image: images/about.jpg
     image_alt: Our team in the meeting room
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >+
+      \<img src="/images/author.jpg" style="float: right;">
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      I'm a freelance remote front end web developer, graphic designer, I.T
+      Consultant, Branding Expert and Content Creator based in Nairobi, Kenya. I
+      love building and creating things e.g. brands, companies, products, tools,
+      content and more, Since growing up I have always had this innate curiosity
+      of finding out what things are made of and how i can tear them down only
+      to build them up again. Some of my first jobs in Web development was
+      reverse engineering website themes based on a client's want, something i
+      still do today only rarely.
+
+
+      I am currently pursuing my Bachelor of Science in Information Technology
+      and have completed a Diploma in Information Technology, a Certificate in
+      Business Information Technology, an Ethical Hacking Certification(CEH
+      local), Adobe Photoshop and Corel Draw, a System Troubleshooting
+      Certification, French Level 1 Language and finally did the
+      basics/fundamentals of Cloud Computing, Cybersecurity and Web Development.
+
+
+      I am a self taught "technologist", hence 60% of my skills come from Online
+      Courses.
+
+
+      To top that off I am a tech enthusiast always interested in trends such as
+      Progressive Web Apps, The Comeback of Static Sites(e.g. Hugo), Machine
+      Learning/AI, Quantum Computing, Big Data, VR/AR/MR, Blockchain, 3D
+      printing and Robotics.
+
   - type: grid_section
     template: grid_section
     section_id: team
