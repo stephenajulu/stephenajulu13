@@ -34,7 +34,7 @@ sections:
         default_value: Please select
         options:
           - Branding
-          - Design
+          - Web Development
           - Digital
       - type: form_field
         template: form_field
