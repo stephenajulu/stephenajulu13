@@ -43,17 +43,7 @@ sections:
           - Web Performance Optimization
           - ' Search Engine Optimization'
           - 'Social Media Management '
-          - '0': l
-            '1': o
-            '2': r
-            '3': e
-            '4': m
-            '5': '-'
-            '6': i
-            '7': p
-            '8': s
-            '9': u
-            '10': m
+          - '[object Object]tise'
       - type: form_field
         template: form_field
         input_type: textarea
