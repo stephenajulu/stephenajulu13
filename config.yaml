@@ -30,8 +30,16 @@ params:
       - type: action
         template: action
         label: Blog
-        url: /blog/
         style: link
+        url: 'https://ajulusthoughts.stephenajulu.com'
+        new_window: true
+      - label: Notes
+        url: /notes/
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
       - type: action
         template: action
         label: Hire Me!
@@ -40,7 +48,7 @@ params:
   footer:
     type: footer
     template: footer
-    content: '&copy; Stephen Ajulu.&nbsp; All rights reserved.'
+    content: '&copy; Stephen Ajulu. &nbsp; A.R.R'
     has_social: true
     social_links:
       - type: action
@@ -93,7 +101,7 @@ params:
         no_follow: false
         type: action
   domain: 'https://stephenajulu13-21bb7.netlify.app'
-  favicon: /images/me.png
+  favicon: /images/author.jpg
 taxonomies:
   stub: stub
 disableKinds:
