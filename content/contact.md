@@ -46,7 +46,7 @@ sections:
           - Advertise on My Blog Ajulu's Thoughts
           - Just Saying Hello
           - Other
-        is_required: true
+        is_required: false
       - type: form_field
         template: form_field
         input_type: textarea
