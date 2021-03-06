@@ -2,7 +2,7 @@
 title: Notes
 subtitle: 'Raw and Uncategorized Notes'
 hide_title: false
-col_number: three
+col_number: two
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
